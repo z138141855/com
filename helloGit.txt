@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-﻿this is my first to use git111wj
-=======
-﻿this is my first to use git111 哈哈
->>>>>>> 216ba9ed00501011a69c08c98a63bbe367a5faa1
+冲突去除
